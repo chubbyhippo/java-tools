@@ -1,4 +1,7 @@
 # java-tools
+## Datafaker
+Generating fake data for the JVM  
+https://github.com/datafaker-net/datafaker
 ## EqualsVerifier
 equals() and hashCode() testing  
 https://github.com/jqno/equalsverifier
